@@ -1,0 +1,16 @@
+Node2D
+AnimatedSprite2D
+AnimatedSprite3D
+CollisionShape2D
+Area2D
+Label
+CanvasLayer
+CharacterBody2D
+TileMap
+ParallaxLayer
+ParallaxBackground
+AnimationPlayer
+Camera2D
+Panel
+StaticBody2D
+Button

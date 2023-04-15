@@ -1,0 +1,7 @@
+res://main.tscn
+res://world.tscn
+res://Play/play.tscn
+res://bg.tscn
+res://frog.tscn
+res://Collectables/cherry.tscn
+res://Collectables/cherry.gd
